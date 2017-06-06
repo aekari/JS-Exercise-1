@@ -5,12 +5,12 @@ function numInRange(min,max) {
 }
 
 function changeColor(){
-	console.log('pointerover');
+	console.log('click');
 	bgColor.style.backgroundColor = "#" + numInRange(100000, 999999);	
 	console.log(Math.random());
 }
 
-bgColor.addEventListener('pointerover', changeColor);
+bgColor.addEventListener('click', changeColor);
 
 
 
