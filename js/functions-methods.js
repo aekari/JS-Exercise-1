@@ -1,3 +1,5 @@
+// The following code in the functions-methods.js file prints to the console a concatenated sentence with a string and the sum of two integers. It also has an object called Ashleigh with some variables and prints to the console a slogan which again, demonstrates concatenation.
+
 
 // Create a global string variable called text and assign it a value of 'the sum is'
 var text = 'The sum is ';
@@ -33,24 +35,23 @@ console.log(Ashleigh.hairColor);	// Ashleigh's hair is now blue
 
 
 
-
-/*
+// this function has 2 parameters
 function addIt(numA, numB){
 		var total = numA + numB;
 		console.log(total);
 }
 
-addIt(8,8);
-addIt(10,10);
-*/
+addIt(8,8); // prints 16 to the console
+addIt(10,10); // prints 20 to the console
 
-/*
-functions addIt(){
+
+// this function has no parameters, and two local variables
+function addIt(){
 		var numA = 2;
 		var numB = 3;
 		var total = numA + numB;
 		console.log(total);
 }
 
+// you call the function and it will print 5 to the console
 addIt();
-*/
