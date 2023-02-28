@@ -6,5 +6,5 @@ The code in the **functions-methods.js** file prints to the console a concatenat
 
 The code in the **bg-change.js** file changes the background of a div when that element is clicked on. When the user hovers over the div, the pointer is changed from an arrow to a pointer:
 
-[![N|Solid](https://i.imgur.com/hFQs20j.gif)]
+![N|Solid](https://i.imgur.com/hFQs20j.gif)
 
