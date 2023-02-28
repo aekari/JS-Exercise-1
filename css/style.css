@@ -10,8 +10,8 @@ body{
 .banner{
 	height:400px;
 	width:50%;
-	border: dashed .2em #fff;
-	cursor: pointer;
-	border-radius: 50%;
+	border: dashed .2em #fff; /*this creates a white dashed border*/
+	cursor: pointer; /*this makes the arrow pointer a pointer when hovering over the circle*/
+	border-radius: 50%; /*this creates a circle */
 	margin:auto;
 }
