@@ -1,4 +1,5 @@
 # JavaScript Exercise 1
+### This project contains examples of basic JavaScript for reference.
 
 The code in the **loops.js** file prints to the browser and the console a list of cities. In the browser it is displayed as an unordered, bulleted list.
 
